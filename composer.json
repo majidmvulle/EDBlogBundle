@@ -1,5 +1,5 @@
 {
-  "name": "ed/blog-bundle",
+  "name": "majidmvulle/blogbundle",
   "type": "symfony-bundle",
   "description": "Symfony EDBlogBundle",
   "keywords": ["Blog"],
